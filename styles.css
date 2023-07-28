@@ -1,0 +1,25 @@
+* {font-family: futura;
+    background-color: lightskyblue;
+    text-align: center;
+        box-sizing: border-box;
+       margin: 10px 0px; }
+
+ul,ol,li,a {background-color: lightyellow;
+           }
+img {border: 2px solid lightyellow;}
+
+.lilink {padding: 5px;}
+
+h1,h2,ul,ol {width: fit-content;
+margin: auto;
+display: block;}
+
+
+ul,ol,h1,h2 {outline: 2px solid darkblue;}
+
+p {font-size: 25px;}
+
+p a{background-color: aqua; font-size: 25px;}
+
+h1,h2 {background-color: aqua;}
+
